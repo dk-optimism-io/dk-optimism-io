@@ -2,10 +2,10 @@
 ## ⚡ Technologies
 
 ### AI
-![Python](https://img.shields.io/badge/-Python-208099?style=flat-square&logo=go&logoColor=red)
-![R](https://img.shields.io/badge/-R-222222?style=flat-square&logo=solidity&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-DDDDDD?style=flat-square&logo=Rust&logoColor=903211)
-![PyTeal](https://img.shields.io/badge/-PyTeal-208099?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-208099?style=flat-square&logo=python&logoColor=red)
+![R](https://img.shields.io/badge/-R-222222?style=flat-square&logo=R&logoColor=white)
+![LLM](https://img.shields.io/badge/-LLM-DDDDDD?style=flat-square&logo=LLM&logoColor=903211)
+![LangChain](https://img.shields.io/badge/-LangChain-208099?style=flat-square&logo=langchain&logoColor=white)
 
 ### Backend
 ![Node.JS](https://img.shields.io/badge/-Node.JS-339933?style=flat-square&logo=node-dot-js&logoColor=white)
